@@ -1,7 +1,7 @@
 Movie Review Sentiment Analysis App 🎬
 An interactive web application built with Python and Streamlit to classify movie reviews as either positive or negative in real-time. This project demonstrates a complete end-to-end Natural Language Processing (NLP) workflow, from data cleaning and model training to deployment.
 
-➡️ View Live Demo
+[➡️ View Live Demo](https://movie-sentiment-analysis-app-sxlgb7nzlfrfvnklfrrah7.streamlit.app)
 
 ## Features
 Real-Time Sentiment Prediction: Enter any movie review and get an instant sentiment classification.
